@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Staggered RecyclerView</string>
+    <string name="dummytext">Kenya</string>
+</resources>
